@@ -26,6 +26,7 @@ int dotProduct(vector<int> a , vector<int> b){
 	return sum;
 }
 
+
 int main(){
 	srand(time(0));
 	vector<int> x = randomVector(5);
