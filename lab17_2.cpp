@@ -7,6 +7,7 @@ void myString(char *&p,int N){
 	p[N] = 0;
 }
 
+
 int main(){
 	char *p;
 	int N;	
