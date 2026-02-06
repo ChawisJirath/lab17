@@ -4,6 +4,7 @@ using namespace std;
 
 int main(){
 	int nA,nB;
+	
 	int *A,*B,**C;	
 	
 	cout << "Length of A: ";
